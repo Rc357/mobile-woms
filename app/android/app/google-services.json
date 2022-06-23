@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790618087895",
+    "project_id": "woms-mobile",
+    "storage_bucket": "woms-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790618087895:android:08e98fc6f3c7ddb9c1ab92",
+        "android_client_info": {
+          "package_name": "woms.team.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790618087895-ue2t2sqq33a93f4de8vlrjd4tojpc0c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEMNEwHYep0g5m50Mfm9nOurMmLGlQ_zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790618087895-ue2t2sqq33a93f4de8vlrjd4tojpc0c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

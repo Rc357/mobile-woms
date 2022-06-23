@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">790618087895-ue2t2sqq33a93f4de8vlrjd4tojpc0c9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">790618087895</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEMNEwHYep0g5m50Mfm9nOurMmLGlQ_zY</string>
+    <string name="google_app_id" translatable="false">1:790618087895:android:08e98fc6f3c7ddb9c1ab92</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEMNEwHYep0g5m50Mfm9nOurMmLGlQ_zY</string>
+    <string name="google_storage_bucket" translatable="false">woms-mobile.appspot.com</string>
+    <string name="project_id" translatable="false">woms-mobile</string>
+</resources>
